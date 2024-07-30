@@ -1,4 +1,4 @@
-# Homrani-sport
+# Homrani-Sport
  I created a gym website using HTML, CSS, JavaScript, and Bootstrap. 
  HTML provided the structure, CSS enhanced the design, and JavaScript added interactivity.
  Bootstrap ensured a responsive and mobile-friendly layout, optimizing the website for different devices.
